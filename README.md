@@ -5,7 +5,7 @@ Analyzed product sales data using Python to identify customer purchasing pattern
 
 <h2>🛠️ Technologies Used</h2>
   <ul>
-  <li>Python</li>
+  <li><b>Programming Language:</b> Python</li>
   <li><b>Libraries:</b> Pandas, numpy, Matplotlib</li>
   <li><b>IDE:</b>Windsurf</li>
 </ul>
